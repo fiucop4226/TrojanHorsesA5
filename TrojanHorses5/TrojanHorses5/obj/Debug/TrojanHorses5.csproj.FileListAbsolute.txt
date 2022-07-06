@@ -1,0 +1,11 @@
+C:\Users\sotoa\Desktop\TrojanHorses5\TrojanHorses5\bin\Debug\TrojanHorses5.exe.config
+C:\Users\sotoa\Desktop\TrojanHorses5\TrojanHorses5\bin\Debug\TrojanHorses5.exe
+C:\Users\sotoa\Desktop\TrojanHorses5\TrojanHorses5\bin\Debug\TrojanHorses5.pdb
+C:\Users\sotoa\Desktop\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.csproj.AssemblyReference.cache
+C:\Users\sotoa\Desktop\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.csproj.SuggestedBindingRedirects.cache
+C:\Users\sotoa\Desktop\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.Main.resources
+C:\Users\sotoa\Desktop\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.Properties.Resources.resources
+C:\Users\sotoa\Desktop\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.csproj.GenerateResource.cache
+C:\Users\sotoa\Desktop\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.csproj.CoreCompileInputs.cache
+C:\Users\sotoa\Desktop\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.exe
+C:\Users\sotoa\Desktop\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.pdb
