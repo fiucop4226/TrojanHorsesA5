@@ -32,13 +32,14 @@ namespace TrojanHorses5
 
         }
 
-        // File - Open File ****Needs  Work
+        // File - Open File
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
             arrayl.Clear();
             OpenFileDialog openFileDialog = new OpenFileDialog();
 
-            while (openFileDialog.ShowDialog() == DialogResult.OK)
+            //changed the while to an if statement to fix the re-opening file select screen
+            if (openFileDialog.ShowDialog() == DialogResult.OK)
             {
                 fileName = openFileDialog.FileName;
                 FileStream fileStream = new FileStream(fileName, FileMode.Open);

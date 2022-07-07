@@ -9,3 +9,13 @@ C:\Users\sotoa\Desktop\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.cspro
 C:\Users\sotoa\Desktop\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.csproj.CoreCompileInputs.cache
 C:\Users\sotoa\Desktop\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.exe
 C:\Users\sotoa\Desktop\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.pdb
+C:\Users\Jose\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\bin\Debug\TrojanHorses5.exe.config
+C:\Users\Jose\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\bin\Debug\TrojanHorses5.exe
+C:\Users\Jose\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\bin\Debug\TrojanHorses5.pdb
+C:\Users\Jose\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.csproj.AssemblyReference.cache
+C:\Users\Jose\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.Main.resources
+C:\Users\Jose\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.Properties.Resources.resources
+C:\Users\Jose\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.csproj.GenerateResource.cache
+C:\Users\Jose\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.exe
+C:\Users\Jose\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.pdb
