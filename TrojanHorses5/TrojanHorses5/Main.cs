@@ -108,7 +108,16 @@ namespace TrojanHorses5
         // File - Exit
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            this.Close();
+            if(MessageBox.Show("Are you sure you would like to close the Application", "Confirmation Message", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning) == DialogResult.OK)
+            {
+                Main dm = new Main();
+                dm.Show();
+                this.Close();
+            }
+            else
+            {
+                this.Activate();
+            }
         }
 
         // Reference Save Class
@@ -149,6 +158,83 @@ namespace TrojanHorses5
         private void Save_Button_Click(object sender, EventArgs e)
         {
             saveToolStripMenuItem_Click(sender, e);
+        }
+
+        // Brings up Oath
+        private void oathToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Oath oath = new Oath();
+            oath.ShowDialog();
+        }
+
+        // Brings up About Dialog
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            About_Dialog dialog = new About_Dialog();
+            dialog.ShowDialog();
+        }
+
+        private void Oath_Button_Click(object sender, EventArgs e)
+        {
+            //this.Hide();
+            Oath oath = new Oath();
+            oath.ShowDialog();
+        }
+
+        private void About_Button_Click(object sender, EventArgs e)
+        {
+            //this.Hide();
+            About_Dialog dialog = new About_Dialog();
+            dialog.ShowDialog();
+        }
+
+        private void cutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            TextBox txtBox = this.ActiveControl as TextBox;
+            if (txtBox.SelectedText != string.Empty)
+                Clipboard.SetData(DataFormats.Text, txtBox.SelectedText);
+            txtBox.SelectedText = string.Empty;
+        }
+
+        private void copyToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            TextBox txtBox = this.ActiveControl as TextBox;
+            if (txtBox.SelectedText != string.Empty)
+                Clipboard.SetData(DataFormats.Text, txtBox.SelectedText);
+        }
+
+        private void pasteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            int position = ((TextBox)this.ActiveControl).SelectionStart;
+            this.ActiveControl.Text = this.ActiveControl.Text.Insert(position, Clipboard.GetText());
+        }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Cut_Click(object sender, EventArgs e)
+        {
+            TextBox txtBox = this.ActiveControl as TextBox;
+            if (txtBox.SelectedText != string.Empty)
+                Clipboard.SetData(DataFormats.Text, txtBox.SelectedText);
+            txtBox.SelectedText = string.Empty;
+        }
+
+        private void Copy_Click(object sender, EventArgs e)
+        {
+            TextBox txtBox = this.ActiveControl as TextBox;
+            if (txtBox.SelectedText != string.Empty)
+                Clipboard.SetData(DataFormats.Text, txtBox.SelectedText);
+        }
+
+        private void Paste_Click(object sender, EventArgs e)
+        {
+            int position = ((TextBox)this.ActiveControl).SelectionStart;
+            this.ActiveControl.Text = this.ActiveControl.Text.Insert(position, Clipboard.GetText());
         }
     }
 }

@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="About_Dialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About_Dialog.Designer.cs">
+      <DependentUpon>About_Dialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Oath.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Oath.Designer.cs">
+      <DependentUpon>Oath.cs</DependentUpon>
+    </Compile>
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +66,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="About_Dialog.resx">
+      <DependentUpon>About_Dialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Oath.resx">
+      <DependentUpon>Oath.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>

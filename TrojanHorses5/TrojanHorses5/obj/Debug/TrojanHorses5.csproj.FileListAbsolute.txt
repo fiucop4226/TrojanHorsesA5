@@ -19,3 +19,16 @@ C:\Users\Jose\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\
 C:\Users\Jose\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.csproj.CoreCompileInputs.cache
 C:\Users\Jose\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.exe
 C:\Users\Jose\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.pdb
+C:\Users\light\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\bin\Debug\TrojanHorses5.exe.config
+C:\Users\light\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\bin\Debug\TrojanHorses5.exe
+C:\Users\light\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\bin\Debug\TrojanHorses5.pdb
+C:\Users\light\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.csproj.AssemblyReference.cache
+C:\Users\light\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.csproj.SuggestedBindingRedirects.cache
+C:\Users\light\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.Main.resources
+C:\Users\light\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.Properties.Resources.resources
+C:\Users\light\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.csproj.GenerateResource.cache
+C:\Users\light\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.csproj.CoreCompileInputs.cache
+C:\Users\light\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.exe
+C:\Users\light\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.pdb
+C:\Users\light\Source\Repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.Oath.resources
+C:\Users\light\source\repos\TrojanHorsesA5\TrojanHorses5\TrojanHorses5\obj\Debug\TrojanHorses5.About_Dialog.resources
